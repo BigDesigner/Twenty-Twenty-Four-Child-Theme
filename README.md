@@ -13,7 +13,7 @@
 - **Requires WordPress Version:** 6.4 or later
 - **Tested up to WordPress Version:** 6.4
 - **Requires PHP Version:** 7.0 or later
-- **License:** [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
+- **License:** GNU General Public License v2 or later
 - **Tags:** Twenty Twenty-Four Child Theme
 - **Text Domain:** twentytwentyfour-child
 
